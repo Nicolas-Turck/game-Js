@@ -1,6 +1,6 @@
 # ROLL THE DICE 
 
-
+![alt text](https://github.com/Nicolas-Turck/game-Js/blob/main/panelGame.png)
 
 Règles :
 Le jeu comprend 2 joueurs sur un seul et même écran.
